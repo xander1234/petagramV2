@@ -5,6 +5,6 @@ Contiene opciones adicionalas a las implementadas a la V1
   -Recycler View
   -Tabs
   
-Para probar la el envio de email con la clase SendMail, configurar el usuario y clave en las constantes (CLAVE y CORREO)
+Para probar la el envio de email con la clase SendMail, configurar el usuario y clave de gmail en las constantes (CLAVE y CORREO)
 
 
